@@ -1,10 +1,10 @@
 
 
-#https://github.com/fast-the-guy/discord-video/blob/main/media/minecraft%20shaders.avif
+# https://github.com/fast-the-guy/discord-video/blob/main/media/minecraft%20shaders.avif
 
-##https://www.youtube.com/watch?v=l7w2uPqmdJw
+## https://www.youtube.com/watch?v=l7w2uPqmdJw
 
 
-#https://github.com/fast-the-guy/discord-video/blob/main/media/homelabbingyt.mp4
+# https://github.com/fast-the-guy/discord-video/blob/main/media/homelabbingyt.mp4
 
-##https://www.youtube.com/watch?v=cMVcclMkp7g
+## https://www.youtube.com/watch?v=cMVcclMkp7g
